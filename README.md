@@ -26,7 +26,7 @@ This project is a simple eCommerce website design for "RedStore". The design inc
 
 ## Website
 
-Check out the live version of the website here.
+Check out the live version of the website (https://yashkhote.github.io/Ecom/).
 
 ## Work in Progress
 
